@@ -11,5 +11,6 @@ Download whole course videos with one simple python script.
 ![Screenshot](./Screenshots/NPTELPage.png)
 5. Enter starting number of lecture
 6. Enter ending number of lecture
+   ![Running](Screenshots/Run.png)
 7. Wait till download completes
 8. All the downloads will be saved to `NPTEL` folder in same directory
